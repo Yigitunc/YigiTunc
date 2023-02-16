@@ -53,7 +53,5 @@ I did internships in many places as a volunteer and in the school curriculum.
 |<img  style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">
 |<img  style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
 |<img  style="width: 90px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"> |
-
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-
 |<b>C</b>|<b>Java</b>|<b>C4C</b>|<b>C#</b>|<b>SQL</b>|<b>Git</b>|<b>Bash</b>|
