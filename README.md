@@ -41,7 +41,7 @@ I did internships in many places as a volunteer and in the school curriculum.
 
 <a  href="https://www.linkedin.com/in/yigitunc/"  target="_blank">
 
-<img  width="30%"  alt="Check my Linkedin"  src="https://user-images.githubusercontent.com/118751159/216603615-c221cd5b-b707-4c5c-9cff-1dc2430a60d2.png"/>
+<img  width="20%"  alt="Check my Linkedin"  src="https://user-images.githubusercontent.com/118751159/216603615-c221cd5b-b707-4c5c-9cff-1dc2430a60d2.png"/>
 </p>
 
   
