@@ -1,3 +1,4 @@
+
 ## Hi There 👋 I'm Yiğit Tunç, Java Developer 🚀
 
   
@@ -46,12 +47,6 @@ I did internships in many places as a volunteer and in the school curriculum.
   
 ## Languages and Tools 🛠️<br />
 
-|<img  style="width: 80px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
-|<img  style="width: 80px"  src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png">
-|<img  style="width: 80px"  src="https://www.anodius.com/wp-content/uploads/2022/05/Co-je-nove-v-SAP-Cloud-for-Customer-Platforma-a-Integracia-2008_00.png">
-|<img  style="width: 80px"  src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
-|<img  style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">
-|<img  style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
-|<img  style="width: 90px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"> |
+|<img  style="width: 80px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"> |<img  style="width: 80px"  src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png"> |<img  style="width: 80px"  src="https://www.anodius.com/wp-content/uploads/2022/05/Co-je-nove-v-SAP-Cloud-for-Customer-Platforma-a-Integracia-2008_00.png"> |<img  style="width: 80px"  src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"> |<img  style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s"> |<img  style="width: 100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"> |<img  style="width: 90px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |<b>C</b>|<b>Java</b>|<b>C4C</b>|<b>C#</b>|<b>SQL</b>|<b>Git</b>|<b>Bash</b>|
