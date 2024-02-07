@@ -36,22 +36,16 @@ I did internships in many places as a volunteer and in the school curriculum.
 ✅ Version Control: Git (Github,Gitlab)
   
 
-<p  align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://www.linkedin.com/in/yigitunc/" target="_blank">
+        <img width="10%" alt="Check my Linkedin" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png"/>
+    </a>
+    <span style="margin: 0 10px;"></span>
+    <a href="https://www.udemy.com/course/algoritmik_ticaret_egitimi/?referralCode=81C9219F616491FB11C4" target="_blank">
+        <img width="20%" alt="Check my Udemy" src="https://cdn.freebiesupply.com/logos/large/2x/udemy-2-logo-black-and-white.png"/>
+    </a>
+</div>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a  href="https://www.linkedin.com/in/yigitunc/"  target="_blank">
-<img  width="10%"  alt="Check my Linkedin"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png"/>
-</p>
-<p  align="center">
-
-
-&nbsp;
-
-<a  href="https://www.udemy.com/course/algoritmik_ticaret_egitimi/?referralCode=81C9219F616491FB11C4"  target="_blank">
-<img  width="20%"  alt="Check my Udemy"  src="https://cdn.freebiesupply.com/logos/large/2x/udemy-2-logo-black-and-white.png"/>
-</p>
 
   
 ## Languages and Tools 🛠️<br />
