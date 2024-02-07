@@ -42,7 +42,7 @@ I did internships in many places as a volunteer and in the school curriculum.
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a  href="https://www.linkedin.com/in/yigitunc/"  target="_blank">
-<img  width="20%"  alt="Check my Linkedin"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png"/>
+<img  width="10%"  alt="Check my Linkedin"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png"/>
 </p>
 <p  align="center">
 
