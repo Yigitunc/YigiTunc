@@ -42,7 +42,7 @@ I did internships in many places as a volunteer and in the school curriculum.
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a  href="https://www.linkedin.com/in/yigitunc/"  target="_blank">
-<img  width="20%"  alt="Check my Linkedin"  src="https://user-images.githubusercontent.com/118751159/216603615-c221cd5b-b707-4c5c-9cff-1dc2430a60d2.png"/>
+<img  width="20%"  alt="Check my Linkedin"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png"/>
 </p>
 <p  align="center">
 
@@ -50,7 +50,7 @@ I did internships in many places as a volunteer and in the school curriculum.
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a  href="https://www.udemy.com/course/algoritmik_ticaret_egitimi/?referralCode=81C9219F616491FB11C4"  target="_blank">
-<img  width="20%"  alt="Check my Udemy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png"/>
+<img  width="20%"  alt="Check my Udemy"  src="https://www.liblogo.com/img-logo/ud8862w3a2-udemy-logo-welcome-to-our-new-brand-udemy-instructor-community.png"/>
 </p>
 
   
