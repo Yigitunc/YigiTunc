@@ -47,7 +47,7 @@ I did internships in many places as a volunteer and in the school curriculum.
 <p  align="center">
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a  href="https://www.udemy.com/course/algoritmik_ticaret_egitimi/?referralCode=81C9219F616491FB11C4"  target="_blank">
 <img  width="20%"  alt="Check my Udemy"  src="https://cdn.freebiesupply.com/logos/large/2x/udemy-2-logo-black-and-white.png"/>
