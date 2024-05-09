@@ -27,11 +27,11 @@ I did internships in many places as a volunteer and in the school curriculum.
 
 💻 Programming Languages: Java, JavaScript, C#, ABAP, C4C  
   
-🔙 Backend: Java (Spring,Data,MVC,Cloud)  
+🔙 Backend: Java (Spring,Hibernate,MVC,Cloud)  
   
 🔝Frontend: HTML5, CSS, Bootstrap, JavaScript
   
-🗄 Database: SQL, T-SQL, MS SQL, MySQL, PostgreSQL  
+🗄 Database: SQL, T-SQL, MS SQL, MySQL, PostgreSQL, MONGODB
   
 ✅ Version Control: Git (Github,Gitlab)
   
